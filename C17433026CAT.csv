@@ -1,0 +1,11 @@
+FEATURENAME,Count,% Miss,Card.,Mode,Mode Freq.,Mode %,2nd Mode,2nd Mode Freq.,2nd Mode %
+workclass,29205,5.6,8, Private,21576,73.9, Self-emp-not-inc,2406,8.2
+education,30940,0.0,16, HS-grad,9976,32.2, Some-college,6938,22.4
+education-num,30940,0.0,16,9,9976,32.2,10,6938,22.4
+marital-status,30940,0.0,7, Married-civ-spouse,14201,45.9, Never-married,10167,32.9
+occupation,29198,5.6,14, Prof-specialty,3932,13.5, Craft-repair,3887,13.3
+relationship,30940,0.0,6, Husband,12496,40.4, Not-in-family,7904,25.5
+race,30940,0.0,5, White,26442,85.5, Black,2965,9.6
+sex,30940,0.0,2, Male,20705,66.9, Female,10235,33.1
+native-country,30386,1.8,41, United-States,27719,91.2, Mexico,607,2.0
+target,30940,0.0,2, <=50K,23506,76.0, >50K,7434,24.0
